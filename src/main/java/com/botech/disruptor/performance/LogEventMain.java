@@ -24,7 +24,7 @@ import java.util.concurrent.Executors;
  * @author yurg
  * @version 1.0
  * @date 2020/3/26 10:17
- * @description :测试 Disruptor
+ * @description :测试 Disruptor --> link:https://www.iteye.com/blog/357029540-2395677
  */
 @SpringBootTest(classes = LogEventMain.class)
 @RunWith(SpringRunner.class)
